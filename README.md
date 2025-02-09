@@ -70,7 +70,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
-changed step "add #" to h1 size and the step after to h3 size
+
 -->
 
 ---
