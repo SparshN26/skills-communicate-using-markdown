@@ -8,3 +8,6 @@ test no header
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Step 1
+- [x] Step 2
+- [ ] Step 3
